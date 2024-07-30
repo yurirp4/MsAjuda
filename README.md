@@ -38,6 +38,7 @@ Video criado em 15 de set. de 2017
 **Versão para uso**: 1.8-
 
 
+<a href="https://www.spigotmc.org/resources/msajuda-use-para-ajudar-os-players.47185/">Link para donwload</a>.
 
 
 
