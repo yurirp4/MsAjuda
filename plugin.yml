@@ -1,0 +1,9 @@
+name: MsAjuda
+version: 1.0
+author: yurirp4
+main: Ajuda.Main
+Description: MsAjuda Mais Um Plugin Da Linha MsPlugins
+commands:
+  ajuda:
+    aliases: [hp, help]
+    description: Use Saber sobre o Servidor

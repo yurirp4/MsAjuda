@@ -1,0 +1,66 @@
+ #############################
+ # Permissao: msajuda.reload #
+ # comandos : /ajuda         #     
+ # Criador: yurirp4          #
+ # Skype: Filipe Silva amy   #
+ # version: 1.0              #
+ # Plugin 100% Free          #
+ # plugin 90% Editavel       #
+ #############################
+ 
+ #caso queria mudar a cor da Msg Use &
+ 
+Pagina_1:
+ - '&a/kit &8- &7 Use para Escolher um Kit'
+ - '&a/site &8- &7 Use para Ver Nosso Site'
+ - '&a/warp &8- &7 Use para Ir Locais Do Servidor'
+#Quaso Queria Adicionar Mais um linha use - ''
+#Recomendo assim fica legazinho
+Pagina_2:
+ - '&a/plot &8- &7 Use Para Comprar um terreno'
+ - '&a/lixo &8- &7Use para jogar itens Fora'
+ - '&a/killer entrar &8- &7Use para Entrar No Evento'
+#Quaso Queria Adicionar Mais um linha use - ''
+#Recomendo assim fica legazinho
+Pagina_3:
+ - '&a/mina'
+ - '&a/jogo'
+ - '&a/toggle'
+#Quaso Queria Adicionar Mais um linha use - ''
+#Recomendo assim fica legazinho
+Pagina_4:
+ - ''
+ - ''
+ - ''
+#Quaso Queria Adicionar Mais um linha use - ''
+#Recomendo assim fica legazinho
+Pagina_5:
+ - ''
+ - ''
+ - ''
+#Quaso Queria Adicionar Mais um linha use - ''
+#Recomendo assim fica legazinho
+Pagina_6:
+ - ''
+ - ''
+ - ''
+#Quaso Queria Adicionar Mais um linha use - ''
+#Recomendo assim fica legazinho
+Pagina_7:
+ - ''
+ - ''
+ - ''
+#Quaso Queria Adicionar Mais um linha use - ''
+#Recomendo assim fica legazinho
+Pagina_8:
+ - ''
+ - ''
+ - ''
+#Quaso Queria Adicionar Mais um linha use - ''
+#Recomendo assim fica legazinho
+Pagina_9:
+ - ''
+ - ''
+ - ''    
+#Quaso Queria Adicionar Mais um linha use - ''
+#Recomendo assim fica legazinho
