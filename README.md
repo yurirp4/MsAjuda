@@ -28,13 +28,8 @@ Esses são os comandos disponibilizados pelo plugin
 
 Video criado em 15 de set. de 2017
 
-[![Watch the video](https://i3.ytimg.com/vi/01BlSyom5lk/hqdefault.jpg)](https://youtu.be/01BlSyom5lk)
+[![Assista o video](https://i3.ytimg.com/vi/01BlSyom5lk/hqdefault.jpg)](https://youtu.be/01BlSyom5lk)
 
-<div align="left">
-      <a href="https://www.youtube.com/watch?v=01BlSyom5lk">
-         <img src="https://img.youtube.com/vi/01BlSyom5lk/0.jpg" style="width:100%;">
-      </a>
-</div>
 
 
 ## Detalhes
